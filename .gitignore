@@ -1,0 +1,16 @@
+# 数据和输出
+data/
+output/
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE 和系统文件
+.idea/
+*.iml
+.DS_Store
